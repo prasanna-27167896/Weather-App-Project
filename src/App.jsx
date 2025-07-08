@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Header from "./components/header";
+import Header from "./components/Header";
 import "./style/index.css";
 import DefaultScreen from "./components/DefaultScreen";
 import { fetchWeatherApi } from "openmeteo";
